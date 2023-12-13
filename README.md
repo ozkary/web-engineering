@@ -12,8 +12,12 @@ This series is designed to guide you through the journey of mastering React, fro
 ### Series Outline
 
 - **Introduction:**
+  - Building a project via CLI
   - Basics of React (components, state, props)
   - Virtual DOM and React's rendering process
+  - JavaScript vs TypeScript
+  - Writing markup with JSX
+  
 
 - **Routing:**
   - React Router or other routing solutions
