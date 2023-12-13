@@ -18,7 +18,6 @@ This series is designed to guide you through the journey of mastering React, fro
   - JavaScript vs TypeScript
   - Writing markup with JSX
   
-
 - **Routing:**
   - React Router or other routing solutions
   - Single-page application (SPA) navigation
