@@ -13,6 +13,8 @@ This series is designed to guide you through the journey of mastering React, fro
 
 - **Introduction:**
   - What is React
+  - What is Next.js
+  - What is Node.js
   - Building a project via CLI
   - Basics of React (components, state, props)
   - Virtual DOM and React's rendering process
