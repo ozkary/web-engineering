@@ -12,6 +12,7 @@ This series is designed to guide you through the journey of mastering React, fro
 ### Series Outline
 
 - **Introduction:**
+  - What is React
   - Building a project via CLI
   - Basics of React (components, state, props)
   - Virtual DOM and React's rendering process
