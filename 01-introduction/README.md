@@ -69,4 +69,5 @@ We use Node.js for a wide range of tasks, including:
 - Building web servers and APIs
 - Running scripts and automation tasks
 - Developing real-time applications
-- Creating server-rendered React applications (like with Next.js)
+- Creating server-rendered React applications 
+  - Using Next.js and other frameworks
