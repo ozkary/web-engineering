@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 # exclude experimental apps
 app/device-status/
+.env

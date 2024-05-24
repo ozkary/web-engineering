@@ -4,7 +4,7 @@ import {
   KeyIcon,
   ExclamationCircleIcon,
 } from '@heroicons/react/24/outline';
-import { ArrowRightIcon } from '@heroicons/react/20/solid';
+import { ArrowRightIcon, ChartPieIcon } from '@heroicons/react/20/solid';
 import { Button } from './button';
 
 export default function LoginForm() {
@@ -55,7 +55,7 @@ export default function LoginForm() {
             </div>
           </div>
         </div>
-        <LoginButton />
+        <LoginButton />        
         <div className="flex h-8 items-end space-x-1">
           {/* Add form errors here */}
         </div>
@@ -64,6 +64,10 @@ export default function LoginForm() {
   );
 }
 
+/**
+ * Loads the login button
+ * @returns functional component with a login button
+ */
 function LoginButton() {
   return (
     <Button className="mt-4 w-full">
