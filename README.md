@@ -17,16 +17,29 @@ This series is designed to guide you through the journey of mastering React, fro
   - What is Node.js
     - What is NVM
   - What is NPM and NPX
-  - Getting Started
+  - Exercise - Getting Started
     - Building a project via CLI
     - Single Page Application (SPA)
     - Full-Stack Application (FSA)
-    - Common Features
+    - Common Features  
   - Basics of React (components, state, props)
   - Virtual DOM and React's rendering process
   - JavaScript vs TypeScript
   - Writing markup with JSX
+
+- **GitHub for Process Management:**
+  - What is Git?
+  - What is GitHub? 
+  - Version control with Git and GitHub
+  - Branching strategies and pull requests for collaborative development
+  - GitHub Actions for CI/CD
+  - Exercise - Create a project repository
   
+- **Deployment:**
+  - Deployment strategies for React applications
+  - Hosting options (Netlify, Vercel, AWS, etc.)
+  - Exercise - Deploy to Vercel
+
 - **Routing:**
   - React Router or other routing solutions
   - Single-page application (SPA) navigation
@@ -47,12 +60,7 @@ This series is designed to guide you through the journey of mastering React, fro
     - Designing and planning cloud resources using Terraform.
     - Infrastructure as Code (IaC) principles.
     - Implementing infrastructure for React applications.
-
-- **GitHub for Process Management:**
-  - Version control with Git and GitHub
-  - Branching strategies and pull requests for collaborative development
-  - GitHub Actions for CI/CD
-
+    - 
 - **Containers:**
   - Containerization with Docker
   - Managing development and production environments
@@ -72,10 +80,6 @@ This series is designed to guide you through the journey of mastering React, fro
 - **Database:**
   - Connecting React to databases (REST APIs)
   - CosmosDb, Firebase
-
-- **Deployment:**
-  - Deployment strategies for React applications
-  - Hosting options (Netlify, Vercel, AWS, etc.)
 
 - **Kubernetes:**
     - Deploying React applications on Kubernetes.
