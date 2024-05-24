@@ -398,5 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # exclude experimental apps
-app/nextjs-dashboard/
 app/device-status/
