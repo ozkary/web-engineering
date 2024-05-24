@@ -15,7 +15,13 @@ This series is designed to guide you through the journey of mastering React, fro
   - What is React
   - What is Next.js
   - What is Node.js
-  - Building a project via CLI
+    - What is NVM
+  - What is NPM and NPX
+  - Getting Started
+    - Building a project via CLI
+    - Single Page Application (SPA)
+    - Full-Stack Application (FSA)
+    - Common Features
   - Basics of React (components, state, props)
   - Virtual DOM and React's rendering process
   - JavaScript vs TypeScript
@@ -42,6 +48,15 @@ This series is designed to guide you through the journey of mastering React, fro
     - Infrastructure as Code (IaC) principles.
     - Implementing infrastructure for React applications.
 
+- **GitHub for Process Management:**
+  - Version control with Git and GitHub
+  - Branching strategies and pull requests for collaborative development
+  - GitHub Actions for CI/CD
+
+- **Containers:**
+  - Containerization with Docker
+  - Managing development and production environments
+
 - **Authentication:**
   - Implementing user authentication in React applications
   - OAuth, JWT, and secure authentication practices
@@ -58,10 +73,6 @@ This series is designed to guide you through the journey of mastering React, fro
   - Connecting React to databases (REST APIs)
   - CosmosDb, Firebase
 
-- **Containers:**
-  - Containerization with Docker
-  - Managing development and production environments
-
 - **Deployment:**
   - Deployment strategies for React applications
   - Hosting options (Netlify, Vercel, AWS, etc.)
@@ -70,11 +81,6 @@ This series is designed to guide you through the journey of mastering React, fro
     - Deploying React applications on Kubernetes.
     - Managing containers at scale.
     - Optimizing applications for containerized environments.
-
-- **GitHub for Process Management:**
-  - Version control with Git and GitHub
-  - Branching strategies and pull requests for collaborative development
-  - GitHub Actions for CI/CD
 
 - **Testing Your App:**
   - Overview of testing types (unit, integration, end-to-end)

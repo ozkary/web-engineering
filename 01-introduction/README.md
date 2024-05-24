@@ -30,7 +30,9 @@ In addition to building the UI, React applications have other areas of concern. 
 
 ## What is Next.js
 
- Next.js is a powerful React framework that offers a range of features and optimizations to streamline the development of React applications. It simplifies common tasks, improves developer experience, and provides a solid foundation for building scalable and maintainable web applications. Here's how it can help us build better React apps:
+ Next.js is a powerful React framework that offers a range of features and optimizations to streamline the development of full-stack React applications. It simplifies common tasks, improves developer experience, and provides a solid foundation for building scalable and maintainable web applications. Here's how it can help us build better React apps:
+
+> &#128077; Use React Components for the user inteface, and Next.js for features and optimizations
 
 **1. Simplified Application Structure and Routing:**
 
@@ -64,10 +66,16 @@ Next.js depends on the Node.js runtime environment. It enables server-side JavaS
 
 Node.js is a powerful JavaScript runtime environment that executes JavaScript code outside of a web browser. It allows us to use JavaScript for server-side scripting and building server-side applications.
 
-We use Node.js for a wide range of tasks, including:
+We use [Node.js](https://nodejs.org/en) for a wide range of tasks, including:
 
 - Building web servers and APIs
 - Running scripts and automation tasks
 - Developing real-time applications
 - Creating server-rendered React applications 
   - Using Next.js and other frameworks
+
+## What is NPM and NPX
+
+Node Package Manager (NPM) is a tool for the Node.js runtime. It enable us to install, uninstall and update JavaScript packages globally in the workstation or locally in a project workspace. 
+
+Node Package Execute (NPX) is a tool for executing packages from the NPM registry without installing them globally. The NPM registry is a public collection of open-source JavaScript packages that are used for web development projects.
