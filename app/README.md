@@ -30,7 +30,6 @@ These features are common for Single Page Application regardless of the framewor
 
 ```bash
 
-npx create-next-app@latest device-status --use-npm 
 npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
 
 ```

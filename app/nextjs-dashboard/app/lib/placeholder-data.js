@@ -5,7 +5,7 @@ const users = [
     id: '410544b2-4001-4271-9855-fec4b6a6442a',
     name: 'User',
     email: 'user@nextmail.com',
-    password: '123456',
+    password: 'SomePW@here948',
   },
 ];
 
@@ -69,6 +69,12 @@ const customers = [
     name: 'Balazs Orban',
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
+  },
+  {
+    id: '13D07535-9999-4157-A011-F8D2EF4E0CBB',
+    name: 'Ozkary',
+    email: 'oscar@ozkary.com',
+    image_url: '/customers/ozkary.png',
   },
 ];
 

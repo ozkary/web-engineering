@@ -2,6 +2,11 @@
 // It describes the shape of the data, and what data type each property should accept.
 // For simplicity of teaching, we're manually defining these types.
 // However, these types are generated automatically if you're using an ORM such as Prisma.
+
+// Use type when:
+//    You have a simple object structure without the need for inheritance or intersection.
+//    You want to create a type alias for an existing type or combine primitive types.
+
 export type User = {
   id: string;
   name: string;
