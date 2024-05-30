@@ -32,11 +32,11 @@ In addition to building the UI, React applications have other areas of concern. 
 
  Next.js is a powerful React framework that offers a range of features and optimizations to streamline the development of full-stack React applications. It simplifies common tasks, improves developer experience, and provides a solid foundation for building scalable and maintainable web applications. Here's how it can help us build better React apps:
 
-> &#128077; Use React Components for the user inteface, and Next.js for features and optimizations
+> &#128077; Use React Components for the user interface, and Next.js for features and optimizations
 
 **1. Simplified Application Structure and Routing:**
 
-- **Pages-based Routing:** Next.js provides a straightforward routing system based on file system structure. Each page or view in oour app is represented by a React component file in the `pages` directory, making it easy to organize and navigate our app.
+- **Pages-based Routing:** Next.js provides a straightforward routing system based on file system structure. Each page or view in our app is represented by a React component file in the `pages` directory, making it easy to organize and navigate our app.
 - **Automatic Code Splitting:** It intelligently splits our code into smaller bundles for individual pages, ensuring that only necessary code is loaded for each request. This leads to faster initial load times and improved performance.
 
 **2. Enhanced Performance and SEO:**
@@ -79,3 +79,22 @@ We use [Node.js](https://nodejs.org/en) for a wide range of tasks, including:
 Node Package Manager (NPM) is a tool for the Node.js runtime. It enable us to install, uninstall and update JavaScript packages globally in the workstation or locally in a project workspace. 
 
 Node Package Execute (NPX) is a tool for executing packages from the NPM registry without installing them globally. The NPM registry is a public collection of open-source JavaScript packages that are used for web development projects.
+
+## What is Visual Studio Code (VS Code)?
+
+Visual Studio Code (VS Code) is a popular source code editor that combines the ease of use of a text editor with powerful features for developers. While it's not a full-fledged Integrated Development Environment (IDE) like its cousin Visual Studio, VS Code offers a high degree of customization and extensibility thanks to:
+
+* **Microsoft Backing:** Developed and maintained by Microsoft, VS Code benefits from the resources of a major tech company.
+* **Large Community:** A vibrant developer community contributes extensions that add a wide range of functionalities to VS Code, enhancing the development experience for various programming languages and frameworks.
+
+**Why VS Code for This Project?**
+
+While you're free to use any IDE you prefer, VS Code offers several advantages for this project:
+
+* **Flexibility:**  VS Code is lightweight and customizable, making it adaptable to different development workflows.
+* **Built-in Terminal:**  The ability to open a terminal window within VS Code eliminates the need to switch between separate applications for code editing and command-line tasks (like using `git` or `npm`).
+* **Unified Interface:**  Having both your code and terminal windows within VS Code provides a streamlined development experience, allowing you to focus on your work without context switching.
+
+In summary, VS Code provides a powerful and flexible platform for development, making it a great choice for this project.
+
+> Whenever we are running commands from the CLI, open a terminal window within your IDE environment. 
