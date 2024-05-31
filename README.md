@@ -17,6 +17,7 @@ This series is designed to guide you through the journey of mastering React, fro
   - What is Node.js
     - What is NVM
   - What is NPM and NPX
+  - Visual Studio Code
   - Exercise - Getting Started
     - Building a project via CLI
     - Single Page Application (SPA)

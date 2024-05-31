@@ -87,4 +87,4 @@ git push origin dev-nextjs-dashboard
 
 By following these steps, you'll establish Vercel integration with your GitHub repository and configure it to deploy your Next.js application from your desired development branch (`dev-nextjs-dashboard` in this case). 
 
-> Important Note: Vercel manages deployments through its own integration with GitHub. This process does not involve creating a separate GitHub Action. Vercel's bots handle deployment automatically when you push changes to your designated branch.
+> &#128073; Important Note: Vercel manages deployments through its own integration with GitHub. This process does not involve creating a separate GitHub Action. Vercel's bots handle deployment automatically when you push changes to your designated branch.
