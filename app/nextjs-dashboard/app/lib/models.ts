@@ -20,6 +20,7 @@ export interface InvoiceFormState {
     success?: boolean;
     errors?: {
       customerId?: string[];
+      email?: string[];
       amount?: string[];
       status?: string[];
     };

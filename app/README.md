@@ -22,11 +22,11 @@ The Create React App tool scaffolded an application with the bare minimum featur
   
 These features are common for Single Page Application regardless of the framework, and we often end up building our own framework to support them. To help us in the development process, the React team has decided that instead **we should use a React-powered framework like Next.js**.
 
-> The rest of the documentation shows how to build the React app using Next.js
+> &#128077; The rest of the documentation shows how to build the React app using Next.js
 
 ## Creating a new app with Next.js
 
-> Use node.js version 18+
+> &#128073; Make sure to use node.js version 18+
 
 ```bash
 
@@ -49,7 +49,7 @@ Select the following options:
 - Would you like to customize the default import alias (@/*)? No 
   - The default alias, `@/*`, maps to the root of the project to avoid using long relative paths like `../../components`
 
-> We are using npx to run the create-next-app package because we don't want to install it globally. The --use-npm flag ensures create-next-app uses npm for project dependencies, even though you're using npx to run the command. This enables us to be able to run npm commands from the terminal.
+> &#128073; We are using npx to run the create-next-app package because we don't want to install it globally in our workstation. The --use-npm flag ensures create-next-app uses npm for project dependencies, even though you're using npx to run the command. This enables us to be able to run npm commands from the terminal.
 
 ### Review the code
 
@@ -97,7 +97,7 @@ nextjs-dashboard/
 
 - Contains installed project dependencies, managed by npm or yarn. (Exclude from source control)
 
-> TypeScript files use the `.tsx` extensions. JavaScript files use the `.js` extensions.
+> &#128077; TypeScript files use the `.tsx` extensions. JavaScript files use the `.js` extensions.
 
 ### How to run it!
 
@@ -114,9 +114,8 @@ npm run dev
 - `npm i` installs all the dependencies using npm
 - `npm run dev` runs the application and loads it on the default browser
 
-> if you see an error `next: not found`  run this command `npx next --version` to install next
+&#128077; if you see an error `next: not found`  run this command `npx next --version` to install next
 
-> If there are additional errors, and you want to start clean run `npm cache clean --force` to clear the cache or run `rm -rf node_modules` to remove the node_modules folder. After this, run `npm i` again
+> &#128077; If there are additional errors, and you want to start clean run `npm cache clean --force` to clear the cache or run `rm -rf node_modules` to remove the node_modules folder. After this, run `npm i` again
 
-> There is no Login component yet, so you should be able to click on `See Dashboard` to load the other pages.
 

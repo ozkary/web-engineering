@@ -80,7 +80,7 @@ Node Package Manager (NPM) is a tool for the Node.js runtime. It enable us to in
 
 Node Package Execute (NPX) is a tool for executing packages from the NPM registry without installing them globally. The NPM registry is a public collection of open-source JavaScript packages that are used for web development projects.
 
-## What is Visual Studio Code (VS Code)?
+## Visual Studio Code (VS Code)?
 
 Visual Studio Code (VS Code) is a popular source code editor that combines the ease of use of a text editor with powerful features for developers. While it's not a full-fledged Integrated Development Environment (IDE) like its cousin Visual Studio, VS Code offers a high degree of customization and extensibility thanks to:
 
@@ -97,4 +97,4 @@ While you're free to use any IDE you prefer, VS Code offers several advantages f
 
 In summary, VS Code provides a powerful and flexible platform for development, making it a great choice for this project.
 
-> Whenever we are running commands from the CLI, open a terminal window within your IDE environment. 
+> &#128073; Whenever we are running commands from the CLI, open a terminal window within your IDE environment. 

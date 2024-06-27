@@ -59,7 +59,7 @@ cd nextjs-dashboard
 npm i @vercel/postgres
 ```
 
-> &#128077; Make sure to run this command from the folder where the project is located. This command looks for the file package.json and the scripts section in the file.
+> &#128073; Make sure to run this command from the folder where the project is located. This command looks for the file package.json and the scripts section in the file.
 
 ### Creating the database objects
 
